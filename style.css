@@ -1,0 +1,46 @@
+img {
+    height: auto;
+    width: 1000px;
+}
+
+#header { color: brown;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.ccp,
+ .cf,
+ .hag{
+    color: brown;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#desccp {
+    color: black;
+    font-size: 18px;
+    font-weight: 800;
+}
+
+.prep,
+.lists,
+.method {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 16px;
+}
+
+.bodyhead {
+    font-family:Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.lists {
+    color: red;
+}
+
+.method {
+    font-weight: 900;
+}
